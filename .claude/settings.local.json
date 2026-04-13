@@ -4,7 +4,9 @@
       "Bash(xargs:*)",
       "Bash(cat:*)",
       "Bash(git init)",
-      "Bash(git remote add origin https://github.com/Richardxrz/Engineer_Robot.git)"
+      "Bash(git remote add origin https://github.com/Richardxrz/Engineer_Robot.git)",
+      "Bash(git config:*)",
+      "Bash(git push -u origin main)"
     ]
   }
 }
